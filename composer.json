@@ -1,0 +1,19 @@
+{
+    "name": "fedor/solid",
+    "description": "This is a short simple examples for SOLID principles",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fedor",
+            "email": "shurygin.f@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
